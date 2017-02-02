@@ -6,6 +6,12 @@ package wmccormack.palindrome_tester;
  * @author William
  *
  */
+
+/**
+ * scanner to take user input word
+ */
+import java.util.Scanner;
+
 public class MainClass {
 
 	/**
@@ -15,6 +21,8 @@ public class MainClass {
 		// TODO Auto-generated constructor stub
 	}
 	
-	
+	public static void main(String[] args){
+		
+	}
 
 }
